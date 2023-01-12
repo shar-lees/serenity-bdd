@@ -6,8 +6,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.rcg.pages.YahooHomePage;
-import com.rcg.pages.YahooLogInPage;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
